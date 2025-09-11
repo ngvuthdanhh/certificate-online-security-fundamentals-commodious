@@ -1,10 +1,7 @@
 # 🔐 Online Security Fundamentals – Commodious  
 
-![Course](https://img.shields.io/badge/Commodious-Training-blue?style=flat-square&logo=readthedocs)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon)  
-![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion)  
-![Focus](https://img.shields.io/badge/Focus-Online%20Security-informational?style=flat-square&logo=defender)  
-![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)  
+![Course](https://img.shields.io/badge/Commodious-Training-blue?style=flat-square&logo=readthedocs) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon) ![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion) ![Focus](https://img.shields.io/badge/Focus-Online%20Security-informational?style=flat-square&logo=defender) ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
+
 
 This repository contains **notes, labs, playbooks, case studies, and certificate of completion** for the *Online Security Fundamentals* course on **Commodious**.  
 The training provides essential knowledge for **safe browsing, phishing awareness, email security, password management, and incident reporting**.  
