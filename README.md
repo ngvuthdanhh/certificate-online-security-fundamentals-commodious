@@ -1,4 +1,4 @@
-# 🔐 Online Security Fundamentals – Commodious  
+# 🔐 Online Security Fundamentals – Commodious 
 
 ![Course](https://img.shields.io/badge/Commodious-Training-blue?style=flat-square&logo=readthedocs) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon) ![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion) ![Focus](https://img.shields.io/badge/Focus-Online%20Security-informational?style=flat-square&logo=defender) ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
 
